@@ -40,6 +40,6 @@ README.md # Project documentation
 
 
 ## ✒️ Author
-Your Brahma Ganesh Katrapalli — your.katrapallibrahmaganesh@gmail.com
+Brahma Ganesh Katrapalli — katrapallibrahmaganesh@gmail.com
 
 ---
