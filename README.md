@@ -1,7 +1,7 @@
-# Traffic Light Controller (SystemVerilog)
+# 4ways-Traffic Light Controller (SystemVerilog)
 
 ## 📌 Overview
-This project implements a simple **Traffic Light Controller FSM** in SystemVerilog and verifies it using a self-checking testbench.
+This project implements a simple **4ways Traffic Light Controller FSM** in SystemVerilog and verifies it using a self-checking testbench.
 
 ## 🏗️ Design
 - FSM with eight states cycling through directions: North, East, South, West
