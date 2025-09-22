@@ -35,7 +35,7 @@ initial begin
   $finish;
 end
 initial begin
-  $dumpfile("traffic_light_controller.vcd");
+  $dumpfile("4way_traffic_light_controller.vcd");
   $dumpvars(0,tb_traffic_light_controller);
 end
 endmodule
