@@ -20,7 +20,7 @@ This project implements a simple **4ways Traffic Light Controller FSM** in Syste
 ## ▶️ How to Run
 ```bash
 #Compile
-iverilog -g2012 src/4ways_traffic_light_controller.sv tb/tb_4way_traffic_light_controller.sv -o 4way_traffic_light.vvp
+iverilog -g2012 src/4way_traffic_light_controller.sv tb/tb_4way_traffic_light_controller.sv -o 4way_traffic_light.vvp
 
 #Simulate
 vvp 4way_traffic_light.vvp
